@@ -1,5 +1,5 @@
 {
-  "name": "timeproxy",
+  "name": "timeproxy-es",
   "version": "1.2.1",
   "description": "A tiny library for creating time based constants",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   ],
   "author": "Kristofer Selbekk <kristofer@selbekk.io>",
   "license": "ISC",
-  "repository": "selbekk/timeproxy",
+  "repository": "Darkle/timeproxy-es",
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-preset-latest": "^6.16.0",
